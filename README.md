@@ -42,7 +42,7 @@ We rendered the process smoother thanks to the implementation of the bigram freq
 
 We must remark that to get to the final process, it was not easy to elaborate the final code, because we encountered many hurdles. Initially, the process took way too much time, because we were using the whole cipher text, which slowed down the process by a lot.
 
-Furthermore, we were counting the bigrams after each iteration at first, computing the frequency, and this process was executed for each letter swap, namely 2626 times, requiring several hours to complete. Through code optimizations we managed to polish the process up to its current state, requiring less than half a minute to decrypt the cipher text as best as it can.
+Furthermore, we were counting the bigrams after each iteration at first, computing the frequency, and this process was executed for each letter swap, namely 26^26 times, requiring several hours to complete. Through code optimizations we managed to polish the process up to its current state, requiring less than half a minute to decrypt the cipher text as best as it can.
 
 ## Conclusion
 Despite the simplicity of the encryption (only the letters were encrypted, leaving spaces and punctuation untouched), finding the right solution was not easy. During this project we had a chance to get a hand-on feel for the topics touched during the lessons. It made us realize that encryption and hashing are vital nowadays for security services and mechanisms.
