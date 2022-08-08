@@ -53,5 +53,8 @@ Despite the simplicity of the encryption (only the letters were encrypted, leavi
 - [Luca Ballistri](https://www.linkedin.com/in/lucaballistri/)
 - [Pietro Querci](https://www.linkedin.com/in/pietro-querci-79b965176/)
 
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
