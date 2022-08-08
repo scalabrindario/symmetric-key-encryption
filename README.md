@@ -47,7 +47,11 @@ Furthermore, we were counting the bigrams after each iteration at first, computi
 ## Conclusion
 Despite the simplicity of the encryption (only the letters were encrypted, leaving spaces and punctuation untouched), finding the right solution was not easy. During this project we had a chance to get a hand-on feel for the topics touched during the lessons. It made us realize that encryption and hashing are vital nowadays for security services and mechanisms.
 
-
+## Collaborators
+- [Dario Scalabrin](https://www.linkedin.com/in/scalabrindario/)
+- [Andrea Parisi](https://www.linkedin.com/in/andrea-parisi-17950b197)
+- [Luca Ballistri](https://www.linkedin.com/in/lucaballistri/)
+- [Pietro Querci](https://www.linkedin.com/in/pietro-querci-79b965176/)
 
 
 
